@@ -1,4 +1,4 @@
-#Hello, I'm Daichi!
+#　Hello, I'm Daichi!
 ・Founder of Pechill,Inc. in Tokyo.
 ・Former commiter of Kedro, an open source Python framework for creating reproducible, maintainable and modular data science code.
 ・🎓 Economics at the University of Keio
