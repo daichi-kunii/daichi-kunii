@@ -1,5 +1,6 @@
 Hello, I'm Daichi!
-Founder of Pechill,Inc. in Tokyo.
+
+・Founder of Pechill,Inc. in Tokyo.
 
 Tech stack:
 Flutter, React, Next.js
