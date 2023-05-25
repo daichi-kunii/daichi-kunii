@@ -1,16 +1,13 @@
-### Hi there 👋
-kdkdkd
-<!--
-**daichi-kunii/daichi-kunii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Daichi!
+Founder of Pechill,Inc. in Tokyo.
 
-Here are some ideas to get you started:
+Tech stack:
+Flutter, React, Next.js
+Get in touch:
+🌐 Visit my Instagram or Twitter
+Twitter 🇯🇵 @921_kuni
+Instagram 🇯🇵 @921_kuni
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=daichi-kunii)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=daichi-kunii)
+
