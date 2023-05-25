@@ -9,8 +9,8 @@
 
 # Get in touch:
 - 🌐 Visit my Instagram or Twitter
-       - Twitter 🇯🇵 @921_kuni
-       - Instagram 🇯🇵 @921_kuni
+     - Twitter 🇯🇵 @921_kuni
+     - Instagram 🇯🇵 @921_kuni
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=daichi-kunii&theme=onedark)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=daichi-kunii&theme=onedark)
