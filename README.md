@@ -4,13 +4,13 @@
 - 🎓 Economics at the University of Keio
 
 # Tech stack:
-・Flutter, React, Next.js
-・AWS,MongoDB,Heroku
+- Flutter, React, Next.js
+- AWS,MongoDB,Heroku
 
 # Get in touch:
-・🌐 Visit my Instagram or Twitter
-  Twitter 🇯🇵 @921_kuni
-  Instagram 🇯🇵 @921_kuni
+- 🌐 Visit my Instagram or Twitter
+       - Twitter 🇯🇵 @921_kuni
+       - Instagram 🇯🇵 @921_kuni
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=daichi-kunii&theme=onedark)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=daichi-kunii&theme=onedark)
