@@ -1,7 +1,7 @@
 # Hello, I'm Daichi!
 - Founder of Pechill,Inc. in Tokyo.
-- Former commiter of Kedro, an open source Python framework for creating reproducible, maintainable and modular data science code.
-- 🎓 Economics at the University of Keio
+- Previously, I worked as a Certified Public Accountant in Japan where I performed accounting audits at an audit corporation. After that, I took on the role of CFO at a startup, leading efforts in fundraising and preparing for IPOs. On the side, I pursued my hobby of creating various web services and self-made apps, allowing me to learn more about coding.
+- 🎓 Bachelor of Economics, Keio University
 
 # Tech stack:
 - Flutter, React, Next.js
