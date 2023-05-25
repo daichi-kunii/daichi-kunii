@@ -1,14 +1,13 @@
 # Hello, I'm Daichi!
-・Founder of Pechill,Inc. in Tokyo.
-・Former commiter of Kedro, an open source Python framework for creating reproducible, maintainable and modular data science code.
-・🎓 Economics at the University of Keio
+- Founder of Pechill,Inc. in Tokyo.
+- Former commiter of Kedro, an open source Python framework for creating reproducible, maintainable and modular data science code.
+- 🎓 Economics at the University of Keio
 
-#Tech stack:
+# Tech stack:
 ・Flutter, React, Next.js
 ・AWS,MongoDB,Heroku
 
-
-#Get in touch:
+# Get in touch:
 ・🌐 Visit my Instagram or Twitter
   Twitter 🇯🇵 @921_kuni
   Instagram 🇯🇵 @921_kuni
