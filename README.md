@@ -9,9 +9,9 @@
 
 # Portfolio:
 - The OMAKASE Crawler
-- [SuperReal](https://apps.apple.com/jp/app/superreal/id1583423459) closed social network system where the scope of viewability changes according to the closeness of the relationship
+- [SuperReal](https://apps.apple.com/jp/app/superreal/id1583423459) Closed social network system where the scope of viewability changes according to the closeness of the relationship
 - [Pechill](https://pechill.jp/) Yonton-like platform dedicated to supporting the monetization of micro-influencers
-- Foodiex platform where reservation rights for upscale sushi restaurants can be traded
+- Foodiex Platform where reservation rights for upscale sushi restaurants can be traded
 
 # Get in touch:
 - 🌐 Visit my Instagram or Twitter
