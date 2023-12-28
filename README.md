@@ -1,5 +1,5 @@
 # Hello, I'm Daichi!
-- Founder of RedeltaAsia,Inc. in Tokyo.
+- Founder of Redelta,Inc. in Tokyo.
 - Previously, I worked as a Certified Public Accountant in Japan where I performed accounting audits at an audit corporation. After that, I took on the role of CFO at a startup, leading efforts in financing and preparing for IPOs. On the side, I pursued my hobby of creating various web services and self-made apps, allowing me to learn more about coding.
 - 🎓 Bachelor of Economics, Keio University
 
